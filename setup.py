@@ -18,7 +18,7 @@ setup(name='hackmud_chat',
         'Topic :: Games/Entertainment :: Multi-User Dungeons (MUD)'
       ],
       keywords='hackmud chat api',
-      url='https://bitbucket.org/chalios/hackmud_chat/',
+      url='https://github.com/chalios/hackmud_chat_py',
       author='Chalios',
       author_email='chalios@protonmail.com',
       license='MIT',
